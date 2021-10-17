@@ -39,8 +39,14 @@ const Footer = () => {
                 </div>
                 <div className="container text-start py-3">
                     <div className="row">
-                        <div className="col-md-4">
-                            <small>&copy; 2021 shariful islam</small>
+                        <div className="col-md-4 px-4">
+                            <small>&copy; 2021 Sumaiya Akter</small>
+
+                            <i className="fab fa-facebook p-2"></i>
+                            <i className="fab fa-instagram p-2"></i>
+                            <i className="fab fa-twitter p-2"></i>
+                            <i className="fab fa-linkedin-in "></i>
+
                         </div>
                         <div className="col-md-2"></div>
                         <div className="col-md-6">

@@ -21,3 +21,7 @@ a {
   font-size: 15px;
   text-align: center;
 }
+.container{
+  background-color: rgba(0, 0, 0, 0.39);
+  width: 100%;
+}

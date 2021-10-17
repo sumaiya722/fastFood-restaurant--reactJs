@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(90deg, #1c2bb4, #e739f5);
+  background: linear-gradient(90deg, #1c2bb4a1, #e939f56c);
 }
 
 .my-cart {
